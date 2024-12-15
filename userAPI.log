@@ -1,0 +1,1 @@
+{"level":"INFO","ts":"2024-12-15T17:27:03.914+0530","caller":"router/router.go:30","msg":"HTTP request","client_ip":"127.0.0.1","method":"POST","path":"/check","status":200,"user_agent":"PostmanRuntime/7.37.3","latency":0.000535154}
